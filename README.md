@@ -55,6 +55,8 @@ python scripts/insight_generator.py
 ---
 
 ## Repository Structure
+
+```
 ai-insight-generator/
 │
 ├── data/
@@ -68,8 +70,9 @@ ai-insight-generator/
 │
 ├── .env                         (API key — not pushed to GitHub)
 ├── .gitignore
+├── report_screenshot.png
 └── README.md
-
+```
 ---
 
 ## Tools and Technologies
