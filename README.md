@@ -89,7 +89,4 @@ ai-insight-generator/
 **Vinit Bhalerao**
 Data Analyst | SQL | Python | Power BI | BigQuery | AI Analytics
 [LinkedIn](https://www.linkedin.com/in/bhalerao-vinit3013) | [Portfolio](https://vinitbportfolio.netlify.app)
-Save Command + S then push:
-bashgit add README.md
-git commit -m "Add README"
-git push origin main
+
